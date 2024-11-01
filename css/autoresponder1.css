@@ -1,0 +1,27 @@
+.autoresponder1-widget {
+    font-family: 'Arial';
+    font-size: 12px;
+	padding:5px;
+}
+
+.autoresponder1-widget .ar1-form {
+    margin: 0 0 10px;
+}
+
+.autoresponder1-widget .ar1-form label {
+    display: block;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 0 0 3px;
+}
+
+.autoresponder1-widget .ar1-form input,
+.autoresponder1-widget .ar1-form textarea {    
+    font-family: 'Arial';
+}
+
+.autoresponder1-widget #FormButton_Subscribe {
+    display: block;
+    font-weight: bold;
+    margin: 0 auto;
+}
